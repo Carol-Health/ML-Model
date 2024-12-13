@@ -25,7 +25,7 @@ The model was trained on a dataset containing images of various oral conditions,
 - Calculus
 - Caries
 
-## result
+## Result 
 ![image](https://github.com/user-attachments/assets/681602bb-b192-4b28-a774-5d1d7625faa5)
 
   
